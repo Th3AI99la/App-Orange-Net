@@ -1,0 +1,412 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FA11D1AD29E8594D00576D81 /* BlurView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA11D1AC29E8594D00576D81 /* BlurView.swift */; };
+		FA11D1AF29E85CEE00576D81 /* CustomCorner.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA11D1AE29E85CEE00576D81 /* CustomCorner.swift */; };
+		FA29EAD229E9AB25004C8B59 /* pagamentos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA29EAD129E9AB25004C8B59 /* pagamentos.swift */; };
+		FA29EAD429E9AB43004C8B59 /* contratos.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA29EAD329E9AB43004C8B59 /* contratos.swift */; };
+		FA29EAD629E9AB59004C8B59 /* faleConosco.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA29EAD529E9AB59004C8B59 /* faleConosco.swift */; };
+		FA29EAD829E9AB6E004C8B59 /* desbloqueior.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA29EAD729E9AB6E004C8B59 /* desbloqueior.swift */; };
+		FA340F2B29EA717E00B5B238 /* SplashScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA340F2A29EA717E00B5B238 /* SplashScreen.swift */; };
+		FA7EAEFD29ECCEDC0007B58C /* conets.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA7EAEFC29ECCEDC0007B58C /* conets.swift */; };
+		FAD2E51C29E5F50E00DC5F61 /* Toupera_NetApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD2E51B29E5F50E00DC5F61 /* Toupera_NetApp.swift */; };
+		FAD2E51E29E5F50E00DC5F61 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD2E51D29E5F50E00DC5F61 /* ContentView.swift */; };
+		FAD2E52029E5F51000DC5F61 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD2E51F29E5F51000DC5F61 /* Assets.xcassets */; };
+		FAD2E52329E5F51000DC5F61 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAD2E52229E5F51000DC5F61 /* Preview Assets.xcassets */; };
+		FAD2E52E29E617A300DC5F61 /* MainOlaView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD2E52D29E617A300DC5F61 /* MainOlaView.swift */; };
+		FAD2E53229E63B9200DC5F61 /* Ajustes.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD2E53129E63B9200DC5F61 /* Ajustes.swift */; };
+		FAD2E53429E63C1900DC5F61 /* profile.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAD2E53329E63C1900DC5F61 /* profile.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FA11D1AC29E8594D00576D81 /* BlurView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlurView.swift; sourceTree = "<group>"; };
+		FA11D1AE29E85CEE00576D81 /* CustomCorner.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCorner.swift; sourceTree = "<group>"; };
+		FA29EAD129E9AB25004C8B59 /* pagamentos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pagamentos.swift; sourceTree = "<group>"; };
+		FA29EAD329E9AB43004C8B59 /* contratos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = contratos.swift; sourceTree = "<group>"; };
+		FA29EAD529E9AB59004C8B59 /* faleConosco.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = faleConosco.swift; sourceTree = "<group>"; };
+		FA29EAD729E9AB6E004C8B59 /* desbloqueior.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = desbloqueior.swift; sourceTree = "<group>"; };
+		FA340F2A29EA717E00B5B238 /* SplashScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashScreen.swift; sourceTree = "<group>"; };
+		FA7EAEFC29ECCEDC0007B58C /* conets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conets.swift; sourceTree = "<group>"; };
+		FA829C0F29E9EAC100289442 /* Toupera-Net-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "Toupera-Net-Info.plist"; sourceTree = SOURCE_ROOT; };
+		FAD2E51829E5F50E00DC5F61 /* Toupera Net.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Toupera Net.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FAD2E51B29E5F50E00DC5F61 /* Toupera_NetApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Toupera_NetApp.swift; sourceTree = "<group>"; };
+		FAD2E51D29E5F50E00DC5F61 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		FAD2E51F29E5F51000DC5F61 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FAD2E52229E5F51000DC5F61 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FAD2E52D29E617A300DC5F61 /* MainOlaView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainOlaView.swift; sourceTree = "<group>"; };
+		FAD2E53129E63B9200DC5F61 /* Ajustes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = Ajustes.swift; path = "New Group/Ajustes.swift"; sourceTree = "<group>"; };
+		FAD2E53329E63C1900DC5F61 /* profile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = profile.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FAD2E51529E5F50E00DC5F61 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FA11D1B029E86E4C00576D81 /* Person */ = {
+			isa = PBXGroup;
+			children = (
+				FAD2E51B29E5F50E00DC5F61 /* Toupera_NetApp.swift */,
+				FA11D1AE29E85CEE00576D81 /* CustomCorner.swift */,
+				FA340F2A29EA717E00B5B238 /* SplashScreen.swift */,
+				FA11D1AC29E8594D00576D81 /* BlurView.swift */,
+			);
+			path = Person;
+			sourceTree = "<group>";
+		};
+		FA29EAD929E9AB75004C8B59 /* subMenus */ = {
+			isa = PBXGroup;
+			children = (
+				FA29EAD729E9AB6E004C8B59 /* desbloqueior.swift */,
+				FA29EAD529E9AB59004C8B59 /* faleConosco.swift */,
+				FA29EAD329E9AB43004C8B59 /* contratos.swift */,
+				FA29EAD129E9AB25004C8B59 /* pagamentos.swift */,
+				FA7EAEFC29ECCEDC0007B58C /* conets.swift */,
+			);
+			name = subMenus;
+			path = Person/subMenus;
+			sourceTree = "<group>";
+		};
+		FAD2E50F29E5F50E00DC5F61 = {
+			isa = PBXGroup;
+			children = (
+				FAD2E51A29E5F50E00DC5F61 /* Toupera Net */,
+				FAD2E51929E5F50E00DC5F61 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FAD2E51929E5F50E00DC5F61 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FAD2E51829E5F50E00DC5F61 /* Toupera Net.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FAD2E51A29E5F50E00DC5F61 /* Toupera Net */ = {
+			isa = PBXGroup;
+			children = (
+				FA829C0F29E9EAC100289442 /* Toupera-Net-Info.plist */,
+				FAD2E52129E5F51000DC5F61 /* Preview Content */,
+				FA11D1B029E86E4C00576D81 /* Person */,
+				FAD2E53329E63C1900DC5F61 /* profile.swift */,
+				FAD2E53129E63B9200DC5F61 /* Ajustes.swift */,
+				FAD2E51D29E5F50E00DC5F61 /* ContentView.swift */,
+				FAD2E52D29E617A300DC5F61 /* MainOlaView.swift */,
+				FA29EAD929E9AB75004C8B59 /* subMenus */,
+			);
+			path = "Toupera Net";
+			sourceTree = "<group>";
+		};
+		FAD2E52129E5F51000DC5F61 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				FAD2E52229E5F51000DC5F61 /* Preview Assets.xcassets */,
+				FAD2E51F29E5F51000DC5F61 /* Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FAD2E51729E5F50E00DC5F61 /* Toupera Net */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FAD2E52629E5F51000DC5F61 /* Build configuration list for PBXNativeTarget "Toupera Net" */;
+			buildPhases = (
+				FAD2E51429E5F50E00DC5F61 /* Sources */,
+				FAD2E51529E5F50E00DC5F61 /* Frameworks */,
+				FAD2E51629E5F50E00DC5F61 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Toupera Net";
+			productName = "Toupera Net";
+			productReference = FAD2E51829E5F50E00DC5F61 /* Toupera Net.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FAD2E51029E5F50E00DC5F61 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1430;
+				LastUpgradeCheck = 1430;
+				TargetAttributes = {
+					FAD2E51729E5F50E00DC5F61 = {
+						CreatedOnToolsVersion = 14.3;
+					};
+				};
+			};
+			buildConfigurationList = FAD2E51329E5F50E00DC5F61 /* Build configuration list for PBXProject "Toupera Net" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = "pt-BR";
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+				"pt-BR",
+			);
+			mainGroup = FAD2E50F29E5F50E00DC5F61;
+			productRefGroup = FAD2E51929E5F50E00DC5F61 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FAD2E51729E5F50E00DC5F61 /* Toupera Net */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FAD2E51629E5F50E00DC5F61 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FAD2E52329E5F51000DC5F61 /* Preview Assets.xcassets in Resources */,
+				FAD2E52029E5F51000DC5F61 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FAD2E51429E5F50E00DC5F61 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA340F2B29EA717E00B5B238 /* SplashScreen.swift in Sources */,
+				FAD2E52E29E617A300DC5F61 /* MainOlaView.swift in Sources */,
+				FA11D1AF29E85CEE00576D81 /* CustomCorner.swift in Sources */,
+				FA29EAD229E9AB25004C8B59 /* pagamentos.swift in Sources */,
+				FA29EAD429E9AB43004C8B59 /* contratos.swift in Sources */,
+				FA11D1AD29E8594D00576D81 /* BlurView.swift in Sources */,
+				FAD2E51E29E5F50E00DC5F61 /* ContentView.swift in Sources */,
+				FAD2E51C29E5F50E00DC5F61 /* Toupera_NetApp.swift in Sources */,
+				FAD2E53429E63C1900DC5F61 /* profile.swift in Sources */,
+				FA29EAD829E9AB6E004C8B59 /* desbloqueior.swift in Sources */,
+				FA29EAD629E9AB59004C8B59 /* faleConosco.swift in Sources */,
+				FAD2E53229E63B9200DC5F61 /* Ajustes.swift in Sources */,
+				FA7EAEFD29ECCEDC0007B58C /* conets.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		FAD2E52429E5F51000DC5F61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FAD2E52529E5F51000DC5F61 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FAD2E52729E5F51000DC5F61 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Toupera Net/Preview Content\"";
+				DEVELOPMENT_TEAM = VDBT2L242T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Toupera-Net-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Orange Net";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.thallesalves.Toupera-Net";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		FAD2E52829E5F51000DC5F61 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"Toupera Net/Preview Content\"";
+				DEVELOPMENT_TEAM = VDBT2L242T;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "Toupera-Net-Info.plist";
+				INFOPLIST_KEY_CFBundleDisplayName = "Orange Net";
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 0.1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.thallesalves.Toupera-Net";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FAD2E51329E5F50E00DC5F61 /* Build configuration list for PBXProject "Toupera Net" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD2E52429E5F51000DC5F61 /* Debug */,
+				FAD2E52529E5F51000DC5F61 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FAD2E52629E5F51000DC5F61 /* Build configuration list for PBXNativeTarget "Toupera Net" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FAD2E52729E5F51000DC5F61 /* Debug */,
+				FAD2E52829E5F51000DC5F61 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FAD2E51029E5F50E00DC5F61 /* Project object */;
+}

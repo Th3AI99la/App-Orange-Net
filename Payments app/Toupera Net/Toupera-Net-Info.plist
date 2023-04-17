@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict/>
+		<dict/>
+	</array>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>https://wa.me/5562995268975</string>
+		<string></string>
+	</array>
+	<key>NSBiometricUsageDescription</key>
+	<string></string>
+	<key>Source Code</key>
+	<string>&lt;key&gt;UIUserInterfaceStyle&lt;/key&gt;
+&lt;string&gt;Dark&lt;/string&gt;</string>
+</dict>
+</plist>
