@@ -16,6 +16,6 @@ E um aplicativo desenvolvido em SwiftUI, com a ideia de automatizar os pagamento
 
 - A parte de pagamentos será incorporada posteriormente  
 
-## Segue abaixo o link de apresentação do simples do app.
+## Segue abaixo o link de apresentação do app.
 
 - link
