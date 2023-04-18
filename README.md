@@ -18,4 +18,4 @@ E um aplicativo desenvolvido em SwiftUI, com a ideia de automatizar os pagamento
 
 ## Segue abaixo o link de apresentação do app.
 
-- link
+https://youtu.be/_lNiX8NuT8M
